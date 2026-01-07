@@ -7,8 +7,6 @@
  
 - 💻 I’m also learning **Web Development alongside Backend**
 
-- 🔭 I’m currently working on learn Node JS and complete version control systems
-
 - 👯 I’m looking to collaborate on **projects with friends or people passionate about programming**
 
 - 🤝 I’m looking for help with **teaching or guiding people who want to learn technology for free**
@@ -18,8 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/richardpro17](https://github.com/richardpro17)
 
 - 💬 Ask me about **web development, game dev and more...**
-
-- 📫 How to reach me **send me an email at rgpro.17@gmail.com**
 
 - ⚡ Fun fact **I actually enjoy working under pressure!**
 
