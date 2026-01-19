@@ -3,21 +3,21 @@
 
 - 🎓 I’m currently studying **Systems Engineering**
 
-- 🌱 I’m recently diving into a **Backend learning path**  
+- I’m recently diving into a **Backend learning path**  
  
 - 💻 I’m also learning **Web Development alongside Backend**
 
-- 👯 I’m looking to collaborate on **projects with friends or people passionate about programming**
+-  I’m looking to collaborate on **projects with friends or people passionate about programming**
 
-- 🤝 I’m looking for help with **teaching or guiding people who want to learn technology for free**
+-  I’m looking for help with **teaching or guiding people who want to learn technology for free**
 
-- 🚀 I have the ability to **learn multiple topics quickly and progressively**, always improving step by step
+-  I have the ability to **learn multiple topics quickly and progressively**, always improving step by step
 
-- 👨‍💻 All of my projects are available at [https://github.com/richardpro17](https://github.com/richardpro17)
+- All of my projects are available at [https://github.com/richardpro17](https://github.com/richardpro17)
 
-- 💬 Ask me about **web development, game dev and more...**
+-  Ask me about **web development, game dev and more...**
 
-- ⚡ Fun fact **I actually enjoy working under pressure!**
+-  Fun fact **I actually enjoy working under pressure!**
 
 
 <h3 align="center">Languages and Tools:</h3>
