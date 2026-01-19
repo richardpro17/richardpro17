@@ -4,9 +4,9 @@
 - 🎓 I'm currently studying **Computer Systems Engineering**
 
 - I'm recently getting into **web development and learning various areas of opportunity, including 3D modeling, application programming, and soon, mobile application development**
--  
+  
 - 💻 I'm also developing **my own scalable website**
-- 
+
 -  I’m looking to collaborate on **projects with friends or people passionate about programming**
 
 - I'm looking for help **teaching or guiding people who want to learn topics I know for free**
