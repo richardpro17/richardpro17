@@ -13,7 +13,7 @@
   
 -  I have the ability to **learn multiple topics quickly and progressively**, always improving step by step
 
-- All of my projects are available at [https://github.com/richardpro17](https://github.com/richardpro17)
+- All of my projects are available at [https://github.com/ric-montalvo](https://github.com/ric-montalvo)
 
 -  Ask me about **web development, game dev and more...**
 
